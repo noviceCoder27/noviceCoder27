@@ -32,6 +32,4 @@ I am Mugdhatanu Dev Goswami a coder <img src="https://media.giphy.com/media/WUlp
 
 ## 📊 GitHub Stats
 
-!Your GitHub stats
-
-!Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noviceCoder27)](https://github.com/noviceCoder27/github-readme-stats)
