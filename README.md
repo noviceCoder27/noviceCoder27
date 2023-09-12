@@ -29,13 +29,6 @@ I am Mugdhatanu Dev Goswami a coder <img src="https://media.giphy.com/media/WUlp
 - **Styling**: Tailwind CSS
 - **Programming Languages**: JavaScript, TypeScript
 
-## 🌐 Connect with me
-
-Feel free to connect with me on these platforms:
-
-- LinkedIn
-- Twitter
-- Email
 
 ## 📊 GitHub Stats
 
