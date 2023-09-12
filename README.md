@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋, I'm Mugdhatanu Dev Goswami!
 
-<!--
-**noviceCoder27/noviceCoder27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer and an Open Source enthusiast. I love to learn and explore new technologies and contribute to the community.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React.js, Next.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Styling**: Tailwind CSS
+- **Programming Languages**: JavaScript, TypeScript
+
+## 🌐 Connect with me
+
+Feel free to connect with me on these platforms:
+
+- LinkedIn
+- Twitter
+- Email
+
+## 📊 GitHub Stats
+
+!Your GitHub stats
+
+!Top Langs
