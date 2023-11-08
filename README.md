@@ -23,10 +23,10 @@ I am Mugdhatanu Dev Goswami a coder <img src="https://media.giphy.com/media/WUlp
 
 ## 🛠️ My Tech Stack
 
-- **Frontend**: React.js, Next.js
+- **Frontend**: HTML,CSS,Javascript,React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Styling**: Tailwind CSS,Vanilla CSS, Chakra UI
+- **Styling**: Tailwind CSS, Chakra UI
 - **Programming Languages**: JavaScript, TypeScript
 
 
